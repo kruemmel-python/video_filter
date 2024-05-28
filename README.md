@@ -1,4 +1,5 @@
 # Video Editor
+![image](https://github.com/kruemmel-python/video_filter/assets/169469747/826d391e-57fe-4f8d-9565-cc454185dc08)
 
 Ein einfaches GUI-Tool zur Bearbeitung von Videos unter Verwendung von PyQt5 und OpenCV-Bibliotheken.
 
